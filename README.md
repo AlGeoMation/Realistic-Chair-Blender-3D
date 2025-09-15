@@ -1,2 +1,2 @@
-# Realistic-Chair-Blender-3D
-This project features a simple chair with realistic touch. The scales were based on real world scales, which makes it suitable for use in interior design, architecture visualisation, or even game essets. It was creadet in Blender 3D
+# Blender projects
+Here are the projects that I created using Blender 3D. Unfortunately, they do not contain the original .blend files, as I lost them. However, I have preserved the rendered images of each project, which showcase the final results. These renders represent my early progress and creative exploration in 3D modeling, and I plan to continue building more complex and realistic models in the future.
