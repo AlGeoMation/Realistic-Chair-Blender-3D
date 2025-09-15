@@ -1,2 +1,2 @@
 # Realistic-Chair-Blender-3D
-A simple chair model but highly realistic with matching scales
+A highly realistic Blender model of a chair, created with accurate proportions and real-world scale.
